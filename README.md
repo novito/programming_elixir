@@ -1,2 +1,2 @@
-# programming_elixir
-Exercises solutions from the book Programming Elixir
+# Solutions to questions on the Programming Elixir book
+A repository of the solutions to the questions asked in the Programming Elixir book =)
